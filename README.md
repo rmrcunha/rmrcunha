@@ -1,5 +1,5 @@
 <h1> Hi,<br> I'm Renan</h1>
-<p align="center">I'm a computer engineering student and electronics technician. I love solving problems and achieving goals. I have worked and created projects using Python, C#, Javascript/Typescript, C and C++.</p>&nbsp;
+<p align="center">I'm a computer engineering student and electronics technician. I love solving problems and achieving goals. I have worked and created projects using C#, Java, Kotlin, Javascript, C and C++.</p>&nbsp;
  
  &nbsp;
  &nbsp;
