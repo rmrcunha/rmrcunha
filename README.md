@@ -8,7 +8,7 @@
 
 ## My Skills
 
-![Top Langs](https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=rmrcunha&theme=dracula)
+![![Renan's GitHub stats](https://github-readme-stats.vercel.app/api?username=rmrcunha)]
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
