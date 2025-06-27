@@ -8,7 +8,7 @@
 
 ## My Skills
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmrcunha)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=rmrcunha&theme=transparent)
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" min-width="400px" max-width="400px" width="400px" align="right" alt="Computador iuriCode">
 
 
